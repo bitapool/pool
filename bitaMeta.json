@@ -1,7 +1,7 @@
 {
   "name": "BITA",
   "ticker": "BITA",
-  "description": "Don't delegate here, or please move your delegation away. Will become a private pool, i.e. 100% fee",
+  "description": "Do not delegate here! If delegated already then please move your delegation away. BITA will become a private pool, i.e. 100% fee",
   "homepage": "https://bitapool.wixsite.com/bita",
   "nonce": "1622570860",
   "extended": "https://git.io/JOMpO"
